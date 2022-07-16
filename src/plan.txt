@@ -1,0 +1,14 @@
+Header Component: At the top of the page
+- Allows users to login and logout
+- Has the name of the app at the top with a logo 
+
+Sidebar: navigation
+- Has options to look at recent and popular posts
+- Sort by most commented on, most likes, possibly have tags for specific memes/formats/types
+
+Main Content:
+- Single row of memes (similar to reddit)
+- Before clicking on a meme you can 
+    - See the amount of likes/dislikes and comments
+    - Have the option to put it in your saved folder
+    - 
